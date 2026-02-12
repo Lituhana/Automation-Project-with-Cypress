@@ -9,11 +9,10 @@
 - **Priority:** Low (Only afects the QA team)
 
 ## 📝 Description:
-The `"data-qa"` attribute is duplicated in the login form, both the `Email Address` input and the `Login` button share the same value: `login-button`        
-    
-![login-button](/cypress/BUGS/BUG-AUTO-01.png)      
-
-
+The `"data-qa"` attribute is duplicated in the login form, both the `Email Address` input and the `Login` button share the same value: `login-button`
+<br>
+![login-button](/cypress/BUGS/BUG-AUTO-01.png)
+<br>
 which hinders unique element identification for automation.
 
 
