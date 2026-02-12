@@ -9,7 +9,7 @@ Automation testing project using Cypress for [**automationexercise.com**](https:
 
 This project was managed using Trello.
 
-Board: https://trello.com/b/ZrIpVWcH/qa-automation-project-cypress
+- [**My Trello Board**](https://trello.com/b/ZrIpVWcH/qa-automation-project-cypress).
 
 
 ## 🚀 Test Automation Progress
