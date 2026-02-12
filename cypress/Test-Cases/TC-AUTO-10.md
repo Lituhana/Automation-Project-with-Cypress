@@ -1,4 +1,4 @@
-# ✉️ TC-AUTO-10 - Verify Subscription in Home Page
+# 📬 TC-AUTO-10 - Verify Subscription in Home Page
 
 ## 📋 General Information:
 
