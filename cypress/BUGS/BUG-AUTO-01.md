@@ -9,7 +9,7 @@
 - **Priority:** Low (Only afects the QA team)
 
 ## 📝 Description:
-The `"data-qa"` attribute is duplicated in the login form, both the `Email Address` input and the `Login` button share the same value ![*login-button*](BUG-AUTO-01.png), which hinders unique element identification for automation.
+The `"data-qa"` attribute is duplicated in the login form, both the `Email Address` input and the `Login` button share the same value ![login-button](BUG-AUTO-01.png), which hinders unique element identification for automation.
 
 
 ## 🛠️ Preconditions:
