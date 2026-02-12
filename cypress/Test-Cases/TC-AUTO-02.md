@@ -1,4 +1,4 @@
-# 🔐 TC-AUTO-02 - Login User with Correct Credentials
+# 🔑 TC-AUTO-02 - Login User with Correct Credentials
 
 ## 📋 General Information:
 
