@@ -11,11 +11,24 @@ describe("Login User", () => {
 
        cy.contains("Login to your account").should("be.visible")
 
-       cy.get('[data-qa="login-button"]').type("ana123@test.com")
+       cy.get('.login-form').within(() => {
+       cy.get('input[name="email"]').type("ana123@test.com")
        cy.get('[data-qa="login-password"]').type("ANA12345!")
-       cy.get('[data-qa="login-button"]').click()
+       cy.get('button[data-qa="login-button"]').click()
+    })
+//------------------------------------------------------------------------------------------------------------------//
+
+    //     Confirmamos que estamos loggeados con nuestra cuenta con credenciales válidas
+
+    cy.contains("Logged in as").should("be.visible")
 
 //------------------------------------------------------------------------------------------------------------------//
+
+    //     Eliminamos la cuenta creada
+
+    cy.get('a[href="/delete_account"]').click()
+    cy.contains("Account Deleted!").should("be.visible")
+    cy.get('[data-qa="continue-button"]').click()
 
   })
 })

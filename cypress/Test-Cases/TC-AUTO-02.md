@@ -4,15 +4,17 @@
 
 - **Author:** Ana Osaba
 - **Date:** 11/02/2026
-- **Status:** Pending Automation ⏳
+- **Status:** Automated ✅
 - **Tool:** Cypress
 - **Priority:** High
 - **Trello Card:** [TC-AUTO-02](https://trello.com/c/xCfxNfsC/2-tc-auto-02-login-user)
 
 ## 📝 Description:
+
 Verify that a registered user can log in using valid credentials.
 
 ## 🛠️ Preconditions:
+
 - User must be registered.
 - User is on home page.
 

@@ -9,6 +9,7 @@
 - **Priority:** Low (Only afects the QA team)
 
 ## 📝 Description:
+
 The `"data-qa"` attribute is duplicated in the login form, both the `Email Address` input and the `Login` button share the same value: `login-button`
 <br>
 ![login-button](/cypress/BUGS/BUG-AUTO-01.png)
@@ -17,6 +18,7 @@ The `"data-qa"` attribute is duplicated in the login form, both the `Email Addre
 
 
 ## 🛠️ Preconditions:
+
 - Navigate to the Login page: **https://automationexercise.com/login**
 
 ## 🐾 Steps:
@@ -28,9 +30,9 @@ The `"data-qa"` attribute is duplicated in the login form, both the `Email Addre
 
 ## 🏁 Expected Result:
 
-- The `Email input` should have a unique identifier `**(e.g., data-qa="login-email").**`
-- The `Login button` should have a unique identifier `**(e.g., **data-qa="login-button").**`
+- The `Email input` should have a unique identifier `(e.g., data-qa="login-email").`
+- The `Login button` should have a unique identifier `(e.g., **data-qa="login-button").`
 
-## Actual Result: 
+## ⚠️ Actual Result: 
 
-- Both elements share `**data-qa="login-button"`.
+- Both elements share `data-qa="login-button"`.

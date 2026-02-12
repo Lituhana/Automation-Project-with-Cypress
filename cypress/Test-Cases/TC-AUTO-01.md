@@ -10,9 +10,11 @@
 - **Trello Card:** [TC-AUTO-01](https://trello.com/c/8nOzHi24/1-tc-auto-01-register-user)
 
 ## 📝 Description:
+
 Verify that a new user can register successfully.
 
 ## 🛠️ Preconditions:
+
 - User is on home page.
 
 ## 🐾 Steps:
