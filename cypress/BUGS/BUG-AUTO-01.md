@@ -13,7 +13,7 @@ The `"data-qa"` attribute is duplicated in the login form, both the `Email Addre
 <br>
 ![login-button](/cypress/BUGS/BUG-AUTO-01.png)
 <br>
-which hinders unique element identification for automation.
+- This creates a conflict for automation as Cypress cannot uniquely distinguish between the two elements.
 
 
 ## 🛠️ Preconditions:
