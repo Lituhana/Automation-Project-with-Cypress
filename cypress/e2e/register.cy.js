@@ -64,7 +64,7 @@ describe("User Registration", () => {
 
 //------------------------------------------------------------------------------------------------------------------//
 
-       //     Borramos al nuevo usuario creado, para validar que esta función opera corectamente:
+       //     Borramos al nuevo usuario creado, para validar que esta función opera correctamente:
 
        cy.get('a[href="/delete_account"]').click()
        cy.contains("Account Deleted!").should("be.visible")

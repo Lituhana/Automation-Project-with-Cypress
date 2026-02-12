@@ -7,7 +7,7 @@
 - **Status:** Automated ✅
 - **Tool:** Cypress
 - **Priority:** High
-- **Trello Card:** [TC-01 Link](https://trello.com/c/8nOzHi24/1-tc-auto-01-register-user)
+- **Trello Card:** [TC-AUTO-01](https://trello.com/c/8nOzHi24/1-tc-auto-01-register-user)
 
 ## 📝 Description:
 Verify that a new user can register successfully.
