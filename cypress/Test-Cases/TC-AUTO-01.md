@@ -3,17 +3,17 @@
 ## 📝 Description
 Verify that a new user can register successfully.
 
-### 🛠️ Preconditions:
+## 🛠️ Preconditions:
 - User is on home page.
 
-### 🐾 Steps:
+## 🐾 Steps:
 
 - Click on "Signup / Login".
 - Enter name and new email.
 - Complete registration form.
 - Submit form.
 
-### 🏁 Expected Result:
+## 🏁 Expected Result:
 
 - Account is created successfully.
 - User is logged in.
