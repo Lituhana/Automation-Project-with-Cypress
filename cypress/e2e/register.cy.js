@@ -62,5 +62,12 @@ describe("User Registration", () => {
        
        cy.get('a[href="/logout"]').should("be.visible")
 
+//------------------------------------------------------------------------------------------------------------------//
+
+       //     Borramos al nuevo usuario creado, para validar que esta función opera corectamente:
+
+       cy.get('a[href="/delete_account"]').click()
+       cy.contains("Account Deleted!").should("be.visible")
+       cy.get('[data-qa="continue-button"]').click()
   })
 })

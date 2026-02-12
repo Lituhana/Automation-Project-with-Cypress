@@ -1,6 +1,15 @@
 # 👤 TC-AUTO-01 - Register User
 
-## 📝 Description
+## 📋 General Information:
+
+- **Author:** Ana Osaba
+- **Date:** 11/02/2026
+- **Status:** Automated ✅
+- **Tool:** Cypress
+- **Priority:** High
+- **Trello Card:** [TC-01 Link](https://trello.com/c/8nOzHi24/1-tc-auto-01-register-user)
+
+## 📝 Description:
 Verify that a new user can register successfully.
 
 ## 🛠️ Preconditions:
@@ -8,13 +17,13 @@ Verify that a new user can register successfully.
 
 ## 🐾 Steps:
 
-- Click on "Signup / Login".
-- Enter name and new email.
-- Complete registration form.
-- Submit form.
+1. Click on "Signup / Login" button.
+2. Enter name and a unique email address.
+3. Complete the registration form with valid data.
+4. Click on "Create Account" button.
 
 ## 🏁 Expected Result:
 
 - Account is created successfully.
 - User is logged in.
-- Logout button is visible.
+- "Logout" and "Delete Account" buttons are visible.
