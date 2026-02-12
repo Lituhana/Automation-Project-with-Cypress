@@ -17,4 +17,4 @@ Board: https://trello.com/b/ZrIpVWcH/qa-automation-project-cypress
 | ID | Test Case | Status | Script |
 |:---|:---|:---|:---|
 | TC-01 | Register User | ✅ Done | [register.cy.js](/cypress/e2e/register.cy.js) |
-| TC-02 | Login User | ⏳ Pending | - |
+| TC-02 | Login User | ✅ Done | [login.cy.js](/cypress/e2e/login.cy.js) |

@@ -24,9 +24,9 @@ Verify that a registered user can log in using valid credentials.
 5. Verify "Login to your account" is visible.
 6. Enter correct email address and password.
 7. Click "Login" button.
-8. Verify that "Logged in as username" is visible.
+8. Verify that "Logged in as {username}" is visible.
 9. Click "Delete Account" button.
-10. Verify that "ACCOUNT DELETED!" is visible.
+10. Verify that "ACCOUNT DELETED!" is displayed.
 
 ## 🏁 Expected Result:
 
