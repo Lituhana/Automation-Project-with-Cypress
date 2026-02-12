@@ -9,10 +9,14 @@ describe("Products Page", () => {
 
     cy.get('a[href="/products"]').click()
 
+//------------------------------------------------------------------------------------------------------------------//
+
     //     Confirmamos que estamos en la página de los productos:
 
     cy.contains("All Products").should("be.visible")
     cy.get('.product-image-wrapper').should("have.length.greaterThan", 0) 
+
+//------------------------------------------------------------------------------------------------------------------//    
 
     //     Hacemos click en el detalle del primer producto y verificamos la info de esa pantalla
 
