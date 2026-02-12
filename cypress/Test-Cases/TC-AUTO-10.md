@@ -1,0 +1,1 @@
+# 💳 TC-AUTO-10 - Verify Subscription in Home Page
