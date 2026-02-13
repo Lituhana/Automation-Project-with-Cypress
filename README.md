@@ -80,11 +80,11 @@ This project was managed using Trello.
 
 | ID | Test Case | Status | Script |
 |:---|:---|:---|:---|
-| TC-01 | Register User | Automated ✅ | [register.cy.js](/cypress/e2e/register.cy.js) |
-| TC-02 | Login User | Automated ✅ | [login.cy.js](/cypress/e2e/login.cy.js) |
-| TC-08 | Verify Products | Automated ✅ | [products.cy.js](/cypress/e2e/products.cy.js) |
-| TC-09 | Search Product | Automated ✅ | [search-product.cy.js](/cypress/e2e/search-product.cy.js) |
-| TC-10 | Verify Subscription | Automated ✅ | [subscription.cy.js](/cypress/e2e/subscription.cy.js) |
+| TC-AUTO-01 | Register User | Automated ✅ | [register.cy.js](/cypress/e2e/register.cy.js) |
+| TC-AUTO-02 | Login User | Automated ✅ | [login.cy.js](/cypress/e2e/login.cy.js) |
+| TC-AUTO-08 | Verify Products | Automated ✅ | [products.cy.js](/cypress/e2e/products.cy.js) |
+| TC-AUTO-09 | Search Product | Automated ✅ | [search-product.cy.js](/cypress/e2e/search-product.cy.js) |
+| TC-AUTO-10 | Verify Subscription | Automated ✅ | [subscription.cy.js](/cypress/e2e/subscription.cy.js) |
 
 ---
 
