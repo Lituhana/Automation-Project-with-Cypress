@@ -69,5 +69,6 @@ describe("User Registration", () => {
        cy.get('a[href="/delete_account"]').click()
        cy.contains("Account Deleted!").should("be.visible")
        cy.get('[data-qa="continue-button"]').click()
+       
   })
 })
