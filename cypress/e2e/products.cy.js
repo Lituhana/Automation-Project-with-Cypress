@@ -2,7 +2,7 @@ describe("Products Page", () => {
 
   it("TC-AUTO-08 - Verify All Products and Product Detail Page", () => {
 
-    //     Confirmamos que estamos en la página del login y hacemos click en "Productos"
+    //     Confirmamos que estamos en la página principal y hacemos click en "Productos"
 
     cy.visit("https://automationexercise.com")
     cy.contains("Full-Fledged practice website for Automation Engineers").should("be.visible")
