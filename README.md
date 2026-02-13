@@ -25,7 +25,7 @@ The test cases were chosen to represent key user flows of an e-commerce platform
 - Cypress
 - JavaScript
 - Node.js
-- [GitHub](https://github.com/Lituhana/Automation-Project-with-Cypress)
+- [GitHub](https://github.com/Lituhana?tab=repositories)
 
 ---
 
