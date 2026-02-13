@@ -9,7 +9,7 @@ This project automates selected [**test cases**](https://automationexercise.com/
 The test cases were chosen to represent key user flows of an e-commerce platform:
 
 - _TC-AUTO-01_: User Registration
-- _TC-AUTO-02_: Login with valid credentials
+- _TC-AUTO-02_: Login with Valid Credentials
 - _TC-AUTO-08_: Verify All Products and Product Detail Page
 - _TC-AUTO-09_: Search Product
 - _TC-AUTO-10_: Verify Subscription in Home Page
@@ -90,7 +90,7 @@ This project was managed using Trello.
 
 ### 🐛 Reported Bug
 
-- **BUG-AUTO-01**: Duplicate "data-qa" attribute in login form  
+- [**BUG-AUTO-01**](https://github.com/Lituhana/Automation-Project-with-Cypress/blob/main/cypress/BUGS/BUG-AUTO-01.md): Duplicate "data-qa" attribute in login form  
 
   - Status: Reported 🚩  
   - Impact: Affects automation selector stability
