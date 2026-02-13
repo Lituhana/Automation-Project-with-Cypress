@@ -1,4 +1,4 @@
-# QA Automation Project with Cypress - E-Commerce Test Suite
+# **QA Automation Project with Cypress** - E-Commerce Test Suite 🛍️🛒
 
 ![Testing](https://img.shields.io/badge/Testing-Cypress%20E2E-violet)
 ![Project Type](https://img.shields.io/badge/Project-Portfolio-violet)
