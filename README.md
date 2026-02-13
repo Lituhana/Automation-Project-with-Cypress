@@ -28,6 +28,7 @@ Automation testing project using Cypress for [**automationexercise.com**](https:
 
 ```
 ├── cypress
+│   │
 │   ├── bugs
 │   │   └── BUG-AUTO-01.md
 │   │
@@ -41,17 +42,15 @@ Automation testing project using Cypress for [**automationexercise.com**](https:
 │   ├── screenshots
 │   │   └── BUG-AUTO-01.png
 │   │
-│   ├── test-cases
-│   │   ├── TC-AUTO-01.md
-│   │   ├── TC-AUTO-02.md
-│   │   ├── TC-AUTO-08.md
-│   │   ├── TC-AUTO-09.md
-│   │   └── TC-AUTO-10.md
+│   └── test-cases
+│       ├── TC-AUTO-01.md
+│       ├── TC-AUTO-02.md
+│       ├── TC-AUTO-08.md
+│       ├── TC-AUTO-09.md
+│       └── TC-AUTO-10.md
 │ 
 └── README.md
 ```
-
-
 
 ## 💻 Project Management
 
