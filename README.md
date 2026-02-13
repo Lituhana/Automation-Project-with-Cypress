@@ -2,9 +2,8 @@
 
 **Automation testing project using Cypress for [automationexercise.com](https://automationexercise.com/)**
 
----
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 - Cypress
 - JavaScript
@@ -13,7 +12,7 @@
 
 ---
 
-## ▶️ How to rn this project
+### ▶️ How to rn this project
 
 1. Clone the repository
 2. Install dependencies:
@@ -26,7 +25,7 @@
 
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
 
 ```
 ├── cypress
