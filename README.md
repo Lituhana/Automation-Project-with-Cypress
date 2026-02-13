@@ -2,6 +2,8 @@
 
 **Automation testing project using Cypress for [automationexercise.com](https://automationexercise.com/)**
 
+---
+
 ## 💻 Tech Stack
 
 - Cypress
@@ -9,6 +11,7 @@
 - Node.js
 - [GitHub](https://github.com/Lituhana/Automation-Project-with-Cypress)
 
+---
 
 ## ▶️ How to rn this project
 
@@ -21,6 +24,7 @@
 
    - npx cypress open
 
+---
 
 ## 📁 Project Structure
 
@@ -50,12 +54,15 @@
 └── README.md
 ```
 
+---
+
 ## 💻 Project Management
 
 This project was managed using Trello.
 
 - [**My Trello Board**](https://trello.com/b/ZrIpVWcH/qa-automation-project-cypress)
 
+---
 
 ## 🚀 Test Automation Progress
 
@@ -66,3 +73,22 @@ This project was managed using Trello.
 | TC-08 | Verify Products | Automated ✅ | [products.cy.js](/cypress/e2e/products.cy.js) |
 | TC-09 | Search Product | Automated ✅ | [search-product.cy.js](/cypress/e2e/search-product.cy.js) |
 | TC-10 | Verify Subscription | Automated ✅ | [subscription.cy.js](/cypress/e2e/subscription.cy.js) |
+
+---
+
+## 🐛 Reported Bug
+
+- BUG-AUTO-01 - Duplicate data-qa attribute in login form  
+  - Status: Reported 🚩  
+  - Impact: Affects automation selector stability
+
+---
+
+## 🏁 Project Goal
+
+The objective of this project is to demonstrate:
+
+- E2E test automation using Cypress
+- Test case documentation and traceability
+- Basic bug reporting practices
+- Structured test management workflow
