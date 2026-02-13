@@ -1,6 +1,6 @@
 # Automation-Project-with-Cypress
 
-Automation testing project using Cypress for [**automationexercise.com**](https://automationexercise.com/)
+**Automation testing project using Cypress for [automationexercise.com](https://automationexercise.com/)**
 
 ## 💻 Tech Stack
 
@@ -21,8 +21,6 @@ Automation testing project using Cypress for [**automationexercise.com**](https:
 
    - npx cypress open
 
-
-## 📁 Project Structure
 
 ## 📁 Project Structure
 
