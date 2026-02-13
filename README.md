@@ -30,11 +30,11 @@ The test cases were chosen to represent key user flows of an e-commerce platform
 1. Clone the repository
 2. Install dependencies:
 
-   - npm install
+npm install
 
 3. Open Cypress test runner:
 
-   - npx cypress open
+npx cypress open
 
 ---
 
