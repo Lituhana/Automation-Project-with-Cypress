@@ -55,7 +55,7 @@
 
 ---
 
-## 💻 Project Management
+### 💻 Project Management
 
 This project was managed using Trello.
 
@@ -63,7 +63,7 @@ This project was managed using Trello.
 
 ---
 
-## 🚀 Test Automation Progress
+### 🚀 Test Automation Progress
 
 | ID | Test Case | Status | Script |
 |:---|:---|:---|:---|
@@ -75,7 +75,7 @@ This project was managed using Trello.
 
 ---
 
-## 🐛 Reported Bug
+### 🐛 Reported Bug
 
 - BUG-AUTO-01 - Duplicate data-qa attribute in login form  
   - Status: Reported 🚩  
@@ -83,7 +83,7 @@ This project was managed using Trello.
 
 ---
 
-## 🏁 Project Goal
+### 🏁 Project Goal
 
 The objective of this project is to demonstrate:
 
