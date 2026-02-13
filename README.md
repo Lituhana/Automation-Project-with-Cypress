@@ -90,7 +90,7 @@ This project was managed using Trello.
 
 ### 🐛 Reported Bug
 
-- BUG-AUTO-01: Duplicate "data-qa" attribute in login form  
+- **BUG-AUTO-01**: Duplicate "data-qa" attribute in login form  
 
   - Status: Reported 🚩  
   - Impact: Affects automation selector stability
