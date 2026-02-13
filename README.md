@@ -1,8 +1,8 @@
 # Automation-Project-with-Cypress
 
-![Cypress](https://img.shields.io/badge/Tested%20with-Cypress-17202C?logo=cypress)
-![Status](https://img.shields.io/badge/Status-Automated-success)
-![Project](https://img.shields.io/badge/Type-Portfolio-blue)
+![Testing](https://img.shields.io/badge/Testing-Cypress%20E2E-violet)
+![Project Type](https://img.shields.io/badge/Project-Portfolio-violet)
+![Status](https://img.shields.io/badge/Status-Completed-green)
 
 End-to-end test automation project built with Cypress to validate real user scenarios on an e-commerce site.
 
