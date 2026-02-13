@@ -1,5 +1,9 @@
 # Automation-Project-with-Cypress
 
+![Cypress](https://img.shields.io/badge/Tested%20with-Cypress-17202C?logo=cypress)
+![Status](https://img.shields.io/badge/Status-Automated-success)
+![Project](https://img.shields.io/badge/Type-Portfolio-blue)
+
 End-to-end test automation project built with Cypress to validate real user scenarios on an e-commerce site.
 
 ## 🎯 Project Objective & Scope
@@ -99,9 +103,4 @@ This project was managed using Trello.
 
 ### 🏁 Project Goal
 
-The objective of this project is to demonstrate:
-
-- End 2 end test automation using Cypress
-- Test case documentation and traceability
-- Basic bug reporting practices
-- Dynamic data handling
+This project was built as part of my QA Automation portfolio to demonstrate practical experience with Cypress and real world test design.
