@@ -19,21 +19,37 @@ Automation testing project using Cypress for [**automationexercise.com**](https:
 
 3. Open Cypress test runner:
 
-  - npx cypress open
+   - npx cypress open
 
 
 ## 📁 Project Structure
 
-cypress
- |── BUGS
- ├── e2e
- │   ├── login.cy.js
- │   ├── products.cy.js
- │   ├── register.cy.js
- │   ├── search-product.cy.js
- │   └── subscription.cy.js
- ├── support
- └── fixtures
+## 📁 Project Structure
+
+```
+├── cypress
+│   ├── bugs
+│   │   └── BUG-AUTO-01.md
+│   │
+│   ├── e2e
+│   │   ├── login.cy.js
+│   │   ├── products.cy.js
+│   │   ├── register.cy.js
+│   │   ├── search-product.cy.js
+│   │   └── subscription.cy.js
+│   │
+│   ├── screenshots
+│   │   └── BUG-AUTO-01.png
+│   │
+│   ├── test-cases
+│   │   ├── TC-AUTO-01.md
+│   │   ├── TC-AUTO-02.md
+│   │   ├── TC-AUTO-08.md
+│   │   ├── TC-AUTO-09.md
+│   │   └── TC-AUTO-10.md
+│ 
+└── README.md
+```
 
 
 
