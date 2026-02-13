@@ -2,6 +2,38 @@
 
 Automation testing project using Cypress for [**automationexercise.com**](https://automationexercise.com/)
 
+## 💻 Tech Stack
+
+- Cypress
+- JavaScript
+- Node.js
+- [GitHub](https://github.com/Lituhana/Automation-Project-with-Cypress)
+
+
+## ▶️ How to rn this project
+
+1. Clone the repository
+2. Install dependencies:
+
+   - npm install
+
+3. Open Cypress test runner:
+
+  - npx cypress open
+
+
+## 📁 Project Structure
+
+cypress
+ |── BUGS
+ ├── e2e
+ │   ├── login.cy.js
+ │   ├── products.cy.js
+ │   ├── register.cy.js
+ │   ├── search-product.cy.js
+ │   └── subscription.cy.js
+ ├── support
+ └── fixtures
 
 
 
@@ -20,4 +52,4 @@ This project was managed using Trello.
 | TC-02 | Login User | Automated ✅ | [login.cy.js](/cypress/e2e/login.cy.js) |
 | TC-08 | Verify Products | Automated ✅ | [products.cy.js](/cypress/e2e/products.cy.js) |
 | TC-09 | Search Product | Automated ✅ | [search-product.cy.js](/cypress/e2e/search-product.cy.js) |
-| TC-10 | Verify Subscription | In Progress ⌛ | [subscription.cy.js](/cypress/e2e/subscription.cy.js) |
+| TC-10 | Verify Subscription | Automated ✅ | [subscription.cy.js](/cypress/e2e/subscription.cy.js) |

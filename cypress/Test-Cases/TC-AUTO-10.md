@@ -4,7 +4,8 @@
 
 - **Author:** Ana Osaba
 - **Date:** 13/02/2026
-- **Status:** In Progress ⌛
+- **Status:** Automated ✅
+- **Tool:** Cypress
 - **Priority:** Medium
 - **Trello Card:** [TC-AUTO-10](https://trello.com/c/rFu9eG0s/7-tc-auto-10-verify-subscription-in-home-page)
 
