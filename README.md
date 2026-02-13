@@ -1,10 +1,10 @@
 # Automation-Project-with-Cypress
 
-Automation testing project using Cypress for [**Automation Exercise**](https://automationexercise.com/)
+End-to-end test automation project built with Cypress to validate real user scenarios on an e-commerce site.
 
 ## 🎯 Project Objective & Scope
 
-This project automates selected test cases from the practice website: https://automationexercise.com/test_cases
+This project automates selected [**test cases**](https://automationexercise.com/test_cases) from the [**Automation Exercise**](https://automationexercise.com/) practice website.
 
 The test cases were chosen to represent key user flows of an e-commerce platform:
 
