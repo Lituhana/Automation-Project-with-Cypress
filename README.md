@@ -1,7 +1,20 @@
 # Automation-Project-with-Cypress
 
-**Automation testing project using Cypress for [automationexercise.com](https://automationexercise.com/)**
+Automation testing project using Cypress for [**Automation Exercise**](https://automationexercise.com/)
 
+## 🎯 Project Objective & Scope
+
+This project automates selected test cases from the practice website: https://automationexercise.com/test_cases
+
+The test cases were chosen to represent key user flows of an e-commerce platform:
+
+- _TC-AUTO-01_: User Registration
+- _TC-AUTO-02_: Login with valid credentials
+- _TC-AUTO-08_: Verify All Products and Product Detail Page
+- _TC-AUTO-09_: Search Product
+- _TC-AUTO-10_: Verify Subscription in Home Page
+
+---
 
 ### 💻 Tech Stack
 
@@ -12,7 +25,7 @@
 
 ---
 
-### ▶️ How to rn this project
+### ▶️ How to rn this Project
 
 1. Clone the repository
 2. Install dependencies:
@@ -77,7 +90,8 @@ This project was managed using Trello.
 
 ### 🐛 Reported Bug
 
-- BUG-AUTO-01 - Duplicate data-qa attribute in login form  
+- BUG-AUTO-01: Duplicate "data-qa" attribute in login form  
+
   - Status: Reported 🚩  
   - Impact: Affects automation selector stability
 
@@ -87,7 +101,7 @@ This project was managed using Trello.
 
 The objective of this project is to demonstrate:
 
-- E2E test automation using Cypress
+- End 2 end test automation using Cypress
 - Test case documentation and traceability
 - Basic bug reporting practices
-- Structured test management workflow
+- Dynamic data handling
