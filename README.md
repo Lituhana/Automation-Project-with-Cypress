@@ -12,11 +12,11 @@ This project automates selected [**test cases**](https://automationexercise.com/
 
 The test cases were chosen to represent key user flows of an e-commerce platform:
 
-- _TC-AUTO-01_: User Registration
-- _TC-AUTO-02_: Login with Valid Credentials
-- _TC-AUTO-08_: Verify All Products and Product Detail Page
-- _TC-AUTO-09_: Search Product
-- _TC-AUTO-10_: Verify Subscription in Home Page
+- _**TC-AUTO-01**_: User Registration
+- _**TC-AUTO-02**_: Login with Valid Credentials
+- _**TC-AUTO-08**_: Verify All Products and Product Detail Page
+- _**TC-AUTO-09**_: Search Product
+- _**TC-AUTO-10**_: Verify Subscription in Home Page
 
 ---
 
